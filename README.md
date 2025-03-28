@@ -2,33 +2,23 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ManuelMPD&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
 ## Tech I Use
 
-<details>
-  <summary>Languages</summary>
+### Languages
+- Python
+- C++
+- MATLAB
 
-  - Python  
-  - C++  
-  - MATLAB
-</details>
+### Frameworks & Libraries
+- AWS
+- PyTorch
+- CUDA
+- OpenAI API
+- SQL
+- Agile (methodology)
 
-<details>
-  <summary>Frameworks & Libraries</summary>
-
-  - AWS  
-  - PyTorch  
-  - CUDA  
-  - OpenAI API  
-  - SQL  
-  - Agile (methodology)
-</details>
-
-<details>
-  <summary>Tools</summary>
-
-  - GitHub  
-  - Docker  
-  - Linux  
-  - Microsoft OS
-</details>
+### Tools
+- GitHub
+- Docker
+- Linux
+- Microsoft OS
