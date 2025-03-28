@@ -1,16 +1,34 @@
-## Hi there 👋
+## Languages Used
 
-<!--
-**ManuelPDM/manuelpdm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech I Use
+
+<details>
+  <summary>Languages</summary>
+
+  - Python  
+  - C++  
+  - MATLAB
+</details>
+
+<details>
+  <summary>Frameworks & Libraries</summary>
+
+  - AWS  
+  - PyTorch  
+  - CUDA  
+  - OpenAI API  
+  - SQL  
+  - Agile (methodology)
+</details>
+
+<details>
+  <summary>Tools</summary>
+
+  - GitHub  
+  - Docker  
+  - Linux  
+  - Microsoft OS
+</details>
